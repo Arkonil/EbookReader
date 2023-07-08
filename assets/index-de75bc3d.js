@@ -1,0 +1,1 @@
+import{j as o}from"./index-e99b49d8.js";import"./react-a2555fc4.js";import"./react-query-d6e5ef73.js";import"./react-router-dom-ae2f0730.js";function m(){return o.jsx("div",{children:"NotFound"})}export{m as default};
