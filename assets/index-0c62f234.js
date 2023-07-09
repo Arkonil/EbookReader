@@ -1,1 +1,0 @@
-import{j as r}from"./index-410359b0.js";import"./react-a2555fc4.js";import"./react-query-d6e5ef73.js";import"./react-router-dom-ae2f0730.js";function s(){return r.jsx("div",{children:"UserProfile"})}export{s as default};
