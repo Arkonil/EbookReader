@@ -1,0 +1,1 @@
+import{j as o}from"./index-9aebd368.js";import"./react-5284b0bf.js";import"./react-query-805b988f.js";import"./react-router-dom-d629d609.js";function m(){return o.jsx("div",{children:"BookInfo"})}export{m as default};
