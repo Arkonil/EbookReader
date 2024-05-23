@@ -1,0 +1,1 @@
+import{j as r}from"./index-e4d0ea14.js";import"./react-5284b0bf.js";import"./react-query-805b988f.js";import"./react-router-dom-d629d609.js";function n(){return r.jsx("div",{children:"SeriesInfo"})}export{n as default};
